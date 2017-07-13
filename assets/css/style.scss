@@ -2,3 +2,43 @@
 ---
 
 @import "{{ site.theme }}";
+
+header {
+  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+}
+
+header h1 {
+ font-size: 38px;
+}
+
+body {
+  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+}
+
+a.button {
+  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+}
+
+#main-content h1 {
+  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+}
+
+#main-content h2 {
+  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+}
+
+#main-content h3 {
+  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+}
+
+#main-content h4 {
+  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+}
+
+#main-content h5 {
+  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+}
+
+#main-content h6 {
+  font-family: 'Noto Sans', Helvetica, Arial, sans-serif;
+}
